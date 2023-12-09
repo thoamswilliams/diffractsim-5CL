@@ -6,4 +6,4 @@ To run DiffractSim, install dependencies from requirements.txt and refer to star
 
 To run inverse design, first run generate_LRDS.py, and then run DIA_inverse.py.
 
-The images used in our experiments and the final report can be found on report_images.py.
+The images used in our experiments and the final report can be found in the report_images folder.
