@@ -1,6 +1,6 @@
 # 5CL Capstone Project: Simulation of Diffraction Patterns
 
-This repo includes a fork of DiffractSim (https://zenodo.org/records/6147772) and our implementation of (doi.org/10.1364/OE.399011) for inverse design of diffraction masks.
+This repo includes a fork of DiffractSim (https://zenodo.org/records/6147772) and our implementation of (https://doi.org/10.1364/OE.399011) for inverse design of diffraction masks.
 
 To run DiffractSim, install dependencies from requirements.txt and refer to startupTest.py.
 
